@@ -65,8 +65,14 @@ Fetch real neighborhood data (via APIs or CSV)
 
 Add user profiles and saved searches
 
-Deploy live on Vercel or Netlify
+Deploy live on Vercel
+## 🌐 Live Demo
+
+You can try the app here:  
+👉 [https://neighbor-4zrze3s6l-sheikh-saniya-parveens-projects.vercel.app](https://neighbor-4zrze3s6l-sheikh-saniya-parveens-projects.vercel.app)
+
 
 📬 Contact
 Developed by Saniya Parveen
 If you have feedback or questions, feel free to raise an issue or connect!
+
