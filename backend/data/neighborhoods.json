@@ -1,0 +1,8 @@
+[
+  { "name": "Greenview", "safety": 9, "rent": 1200, "green_score": 8 },
+  { "name": "UrbanSide", "safety": 6, "rent": 1600, "green_score": 5 },
+  { "name": "Sunny Heights", "safety": 8, "rent": 1000, "green_score": 7 },
+  { "name": "Lakewood", "safety": 7, "rent": 900, "green_score": 6 },
+  { "name": "Riverside", "safety": 8, "rent": 1400, "green_score": 9 }
+]
+
