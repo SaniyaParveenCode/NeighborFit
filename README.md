@@ -69,8 +69,7 @@ Deploy live on Vercel
 ## 🌐 Live Demo
 
 You can try the app here:  
-👉 [https://neighbor-4zrze3s6l-sheikh-saniya-parveens-projects.vercel.app](https://neighbor-4zrze3s6l-sheikh-saniya-parveens-projects.vercel.app)
-
+👉 [neighbor-fit-git-master-sheikh-saniya-parveens-projects.vercel.app](https://neighbor-fit-git-master-sheikh-saniya-parveens-projects.vercel.app)
 
 📬 Contact
 Developed by Saniya Parveen
